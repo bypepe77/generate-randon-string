@@ -15,6 +15,6 @@ go get github.com/bypepe77/generate-randon-string
   import "github.com/bypepe77/generate-randon-string/pkg/generator
   
   randomString := generator.GenerateRandomString(20)
-	fmt.Println("random string", randomString)
+  fmt.Println("random string", randomString)
 
 ```
